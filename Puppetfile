@@ -56,3 +56,4 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 github "openssl",    "1.0.0"
+github "csshx",	"1.0.0"
